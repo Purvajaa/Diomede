@@ -1,2 +1,0 @@
-# Diomede
-DICOM Telemedicine Toolkit
